@@ -1,3 +1,4 @@
+select
 `external_id` as externalId,
   `name` as name,
   `description` as description,
